@@ -14,7 +14,7 @@
   ],
   "success_url": "https://telegram.me/",
   "website": "https://github.com/HeimanPictures/HeimanPictures/",
-  "repository": "https://github.com/HeimanPictures/Mdisk-Bot",
+  "repository": "https://github.com/malik7983/Mdisk-Bot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string from botfather.",
